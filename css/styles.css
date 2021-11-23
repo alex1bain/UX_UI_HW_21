@@ -11304,7 +11304,7 @@ header.masthead {
   position: relative;
   background-color: #343a40;
   /* background: url("../assets/img/bg-masthead.jpg") no-repeat center center; */
-  background: url("./images/daniel-bernal-02z-pixel-melee-final-destination.gif") no-repeat center center;
+  background: url("/images/daniel-bernal-02z-pixel-melee-final-destination.gif") no-repeat center center;
 
   background-size: cover;
   padding-top: 8rem;
@@ -11361,7 +11361,7 @@ header.masthead h1, header.masthead .h1 {
 .call-to-action {
   position: relative;
   background-color: #343a40;
-  background: url("./images/Final_Destination_HD.png") no-repeat center center;
+  background: url("/images/Final_Destination_HD.png") no-repeat center center;
   background-size: cover;
   padding-top: 7rem;
   padding-bottom: 7rem;
