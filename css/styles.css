@@ -11381,3 +11381,36 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
+video {
+-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+font-family: "Roboto",Helvetica,Arial,sans-serif;
+font-size: 13px;
+color: #cecece;
+line-height: 23px;
+box-sizing: border-box;
+position: relative;
+z-index: 3;
+overflow: hidden;
+width: 100%;
+background-color: white;
+}
+
+.video {
+-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+font-family: "Roboto",Helvetica,Arial,sans-serif;
+font-size: 13px;
+color: #cecece;
+line-height: 23px;
+box-sizing: border-box;
+margin-right: auto;
+margin-left: auto;
+padding-left: 15px;
+padding-right: 15px;
+margin-top: 0;
+margin-bottom: 0;
+padding-top: 80px;
+padding-bottom: 80px;
+}
